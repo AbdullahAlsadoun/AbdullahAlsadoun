@@ -18,6 +18,8 @@
 - **Centralized Event & Club Hub:** Categorized streams for Hackathons, Conferences, and Competitions with integrated registration links.
 - **Student Skill Profiles:** Showcase student portfolios, past achievements, and verified skills for networking.
 
+![App Interface & Features](app_overview.PNG)
+
 ---
 
 ###  Business Strategy & Product Management Artifacts
