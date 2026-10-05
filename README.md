@@ -1,4 +1,8 @@
-# Daleel (دليل) – Academic & Event Platform
+<p align="center">
+  <img src="logo.PNG" alt="Daleel Logo" width="120"/>
+</p>
+
+## Daleel (دليل) – Academic & Event Platform
 
 ###  Overview
 **Daleel** is an end-to-end e-business platform designed to bridge the engagement gap among IT and CIS university students. It serves as a centralized hub connecting students with events, hackathons, and student clubs while using decision-tree logic and matching algorithms to facilitate optimal team formation and career role identification.
@@ -27,6 +31,9 @@
 - **Competitive Analysis:** Evaluated conventional university portals vs. Daleel's unique selling points (automated recommendation & interactive team formation).
 - **Product Roadmap:** Planned a 3-phase rollout strategy ranging from MVP launch (single university focus) to cross-university integrations and recruitment marketplace bridges.
 
+![Business Model Canvas](bmc.PNG)
+
+![Product Roadmap](roadmap.PNG)
 ---
 
 ###  Tech Stack & Methods
