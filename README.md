@@ -35,5 +35,5 @@
 ---
 
 ###  Deliverables & Documents
--  **Presentation & Pitch Deck:** Available in the `/docs` folder
+-  **Presentation & Pitch Deck:** [View Pitch Deck PDF](__تطبيق دليل_و.pdf)
 -  **Figma Prototype:** https://www.figma.com/design/XlX0QMe3iCs8dorHEPAiNo/Untitled?node-id=0-1&t=QEF3gumK11GShsj2-1
