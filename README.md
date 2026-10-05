@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.PNG" alt="Daleel Logo" width="120"/>
+  <img src="designs/logo.PNG" alt="Daleel Logo" width="120"/>
 </p>
 
 ## Daleel (دليل) – Academic & Event Platform
@@ -22,7 +22,7 @@
 - **Centralized Event & Club Hub:** Categorized streams for Hackathons, Conferences, and Competitions with integrated registration links.
 - **Student Skill Profiles:** Showcase student portfolios, past achievements, and verified skills for networking.
 
-![App Interface & Features](app_overview.PNG)
+![App Interface & Features](designs/app_overview.PNG)
 
 ---
 
@@ -31,9 +31,9 @@
 - **Competitive Analysis:** Evaluated conventional university portals vs. Daleel's unique selling points (automated recommendation & interactive team formation).
 - **Product Roadmap:** Planned a 3-phase rollout strategy ranging from MVP launch (single university focus) to cross-university integrations and recruitment marketplace bridges.
 
-![Business Model Canvas](bmc.PNG)
+![Business Model Canvas](designs/bmc.PNG)
 
-![Product Roadmap](roadmap.PNG)
+![Product Roadmap](designs/roadmap.PNG)
 ---
 
 ###  Tech Stack & Methods
